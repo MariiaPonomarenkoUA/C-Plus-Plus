@@ -1,0 +1,5 @@
+cout << "Hello, friend" << endl;
+
+:)>
+
+hi

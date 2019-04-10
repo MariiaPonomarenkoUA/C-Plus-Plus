@@ -1,0 +1,16 @@
+﻿  Func ChooseTypeOfOperation.cpp
+c:\users\ponomarenko\source\repos\project51\project51\func choosetypeofoperation.cpp(2): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  Func DeleteElementInTheEnd.cpp
+c:\users\ponomarenko\source\repos\project51\project51\func deleteelementintheend.cpp(2): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  Func DeleteElementOfIndex.cpp
+c:\users\ponomarenko\source\repos\project51\project51\func deleteelementofindex.cpp(2): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  Func DeleteElementInTheBegin.cpp
+c:\users\ponomarenko\source\repos\project51\project51\func deleteelementinthebegin.cpp(2): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  Func Print.cpp
+c:\users\ponomarenko\source\repos\project51\project51\func print.cpp(2): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  Func Push.cpp
+c:\users\ponomarenko\source\repos\project51\project51\func push.cpp(2): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  Func PushInBegin.cpp
+c:\users\ponomarenko\source\repos\project51\project51\func pushinbegin.cpp(2): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  Generating Code...
+  Project51.vcxproj -> C:\Users\ponomarenko\source\repos\Project51\Debug\Project51.exe
